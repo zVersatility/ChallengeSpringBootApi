@@ -1,6 +1,12 @@
 # Challenge Spring Boot API
 
-Este proyecto es un desafío que implementa una API RESTful utilizando Spring Boot, diseñada para gestionar una colección de libros y autores. Permite la búsqueda de libros a través de una API externa y el almacenamiento de información relevante en una base de datos.
+Este proyecto es un desafío que implementa una API utilizando Spring Boot, diseñada para gestionar una colección de libros y autores. Permite la búsqueda de libros a través de una API externa y el almacenamiento de información relevante en una base de datos.
+
+<div style="display:flex">
+ <img alt="Proyecto Estatus" src="https://img.shields.io/badge/STATUS-FINALIZADO-blue">
+ <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zVersatility/Encriptador-Challenge"> 
+ <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/zVersatility/Encriptador-Challenge">
+</div>
 
 ## Tabla de Contenidos
 
@@ -8,8 +14,8 @@ Este proyecto es un desafío que implementa una API RESTful utilizando Spring Bo
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- [Contacto](#contacto)
+
 
 ## Características
 
@@ -29,7 +35,6 @@ Este proyecto es un desafío que implementa una API RESTful utilizando Spring Bo
 - [Hibernate](https://hibernate.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Maven](https://maven.apache.org/)
-- [RESTful API](https://restfulapi.net/)
 
 ## Instalación
 
@@ -73,10 +78,31 @@ Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
   ![image](https://github.com/user-attachments/assets/9f33aca3-4bdb-44f7-b818-c8ffd88b54c3)
 
 * **Opcion 05** - *Listar libros por idioma , se ingresa un idioma por consola (ejemplo español: es) hace consulta a la base de datos y muestra todos los libros registrados con el idioma español.*
+
+  ![image](https://github.com/user-attachments/assets/6550343d-505a-4eec-969f-0bc658a09086)
+
 * **Opcion 06** - *buscar autor por nombre , se ingresa un nombre y se hace consulta a la base de datos y muestra todos los autores que coincidan con el nombre ingresado.*
+
+    ![image](https://github.com/user-attachments/assets/f3f319c2-ab22-41e5-b279-3818dd3e965c)
+
 * **Opcion 07** - *Top 10 libros mas descargados , hace consulta a la base de datos y muestra  el top 10 de libros mas descargados en forma descendente*
+
+  ![image](https://github.com/user-attachments/assets/f63a4ed3-7356-4ced-a724-02050d137a66)
+
 * **Opcion 08** - *Estadisticas , usando Summary Statistics muestra el libro con el numero maximo y minimo de descargas.
+
+  ![image](https://github.com/user-attachments/assets/fa5e6fd4-8b90-4297-a7c2-4895e278786d)
+
+
+## Contacto
+- ` Linkedin`: https://www.linkedin.com/in/pedro-huaman-mauricio/
   
+## Expresiones de Gratitud 🎁
+
+* Desafio realizado gracias a  [Alura Latam](https://www.aluracursos.com/) y su grupo de instructores.
+* Instructora: [Génesys Rondón](https://github.com/genesysrm)
+
+
 
  
 
